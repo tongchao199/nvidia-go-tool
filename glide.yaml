@@ -1,0 +1,5 @@
+package: github.com/tongchao199/nvidia-go-tool
+import:
+- package: github.com/NVIDIA/gpu-monitoring-tools
+  subpackages:
+  - bindings/go/nvml

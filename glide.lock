@@ -1,0 +1,8 @@
+hash: 8aaf4d84f6684faf77162677379eac7f67a74bc7d6b6783df3f69ae1f6e7a1f5
+updated: 2019-04-29T15:31:27.938072616+08:00
+imports:
+- name: github.com/NVIDIA/gpu-monitoring-tools
+  version: d50172b8f2da8a6654a43642eceda3a90f94dc99
+  subpackages:
+  - bindings/go/nvml
+testImports: []
